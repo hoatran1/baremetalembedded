@@ -34,3 +34,5 @@ load:
 load:
 
 	openocd -f board/stm32f4discovery.cfg 
+
+    hoa la tao day
