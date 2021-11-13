@@ -32,3 +32,6 @@ clean:
 load:
 
 	openocd -f board/stm32f4discovery.cfg 
+load:
+
+	openocd -f board/stm32f4discovery.cfg 
